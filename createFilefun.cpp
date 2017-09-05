@@ -1,4 +1,5 @@
-#include"header.h"
+#include"header.h
+#include<iostream>
 using namespace std;
 void createFile(int argc,char  **argv)
 {
